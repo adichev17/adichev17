@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.NET+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Backend+Developer+|+/.NET+dev.)](https://git.io/typing-svg)
 
 <h1 align="left">𝙹𝚞𝚜𝚝 <a href="https://t.me/adishchev21" target="_blank">Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
