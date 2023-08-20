@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.NET+Developer)](https://git.io/typing-svg)
 
 <h1 align="left">𝙹𝚞𝚜𝚝<a href="https://t.me/adishchev21" target="_blank">Dmitriy</a> 
