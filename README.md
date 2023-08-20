@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">
   <span style="display:block">
-    - :man_student: I did B.E. in Computer Science from Moscow State Technological University "Stankin"
+    - :man_student: I did B.E. in Computer Science from Moscow State Technological University "Stankin" <br>
     </span>
     <span style="display:block">
     - ⚡ My programming experience is more than 5 years"
