@@ -1,9 +1,10 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.NET+Developer)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="left">𝙹𝚞𝚜𝚝<a href="https://t.me/adishchev21" target="_blank">Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="left">I did B.E. in Computer Science from Moscow State Technological University "Stankin"
+My programming experience is more than 5 years, from the bottom, commercial more than 3 years
 <!--
 **adichev17/adichev17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
