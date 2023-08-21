@@ -7,6 +7,14 @@
  <li><h3>🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚋𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚎 𝚝𝚘 𝚍𝚎𝚎𝚙𝚎𝚗 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝚜𝚢𝚜𝚝𝚎𝚖 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚗𝚍 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜  </h3></li>
  <li><h3>♥️ 𝙼𝚢 𝚏𝚊𝚟𝚘𝚛𝚒𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚛𝚎 𝙲#, 𝙹𝚂, 𝚁𝚞𝚜𝚝 </h3></li>
 </ul>
+### Languages and Tools:
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 <!--
 **adichev17/adichev17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
