@@ -8,7 +8,8 @@
  <li><h3>♥️ 𝙼𝚢 𝚏𝚊𝚟𝚘𝚛𝚒𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚛𝚎 𝙲#, 𝙹𝚂, 𝚁𝚞𝚜𝚝 </h3></li>
 </ul>
 
-<h2> 𝙼𝚢 𝚂𝚝𝚊𝚌𝚔 </h2>
+<h2>𝙼𝚢 𝚂𝚝𝚊𝚌𝚔 </h2>
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
