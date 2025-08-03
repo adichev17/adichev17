@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Backend+Developer)](https://git.io/typing-svg)
-<h1 align="left">𝙹𝚞𝚜𝚝 <a href="https://t.me/adishchev21" target="_blank">Dmitriy</a> 
+<h1 align="left">𝙹𝚞𝚜𝚝 <a href="https://t.me/adishchevv" target="_blank">Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <ul>
  <li><h3> :man_student: 𝙸 𝚍𝚒𝚍 M.Sc. 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝙼𝚘𝚜𝚌𝚘𝚠 𝚂𝚝𝚊𝚝𝚎 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢</h3></li>
